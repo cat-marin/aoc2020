@@ -1,3 +1,8 @@
+/*
+ * took me a hot minute to figure this out, as im new to cpp.
+ * forgive me for needing to see how other people did it ¯\_(ツ)_/¯
+*/
+
 #include <iostream>
 #include <fstream>
 
